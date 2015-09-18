@@ -12,7 +12,7 @@ A logstash transport for winston providing an extended console which outputs win
 ## Example
 
     var winston = require('winston'),
-        debug = require('./winston-dconsole');
+        debug = require('winston-dconsole');
     
     winston.add(debug.Dconsole, {
         "timestamp": true,
