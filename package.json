@@ -1,7 +1,7 @@
 {
   "name": "winston-dconsole",
   "description": "A winston console transport which outputs log messages with filename and linenumber information. This is suitable for use with the intellij-awesome-console IntelliJ IDEA plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Marcus Wittig",
     "url": "https://github.com/mwittig/winston-dconsole"
