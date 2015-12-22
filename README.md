@@ -1,6 +1,6 @@
 # winston-dconsole
 
-A logstash transport for winston providing an extended console which outputs winston log messages including filename and 
+A winston transport providing an extended console which outputs winston log messages including filename and 
  linenumber of the call. This is suitable for using it with the 
  [intellij-awesome-console](https://github.com/anthraxx/intellij-awesome-console) IntelliJ IDEA plugin. It extends the 
  log output by adding the source code file name and line number of the logger statement executed. The output is added 
