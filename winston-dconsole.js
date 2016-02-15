@@ -11,8 +11,8 @@ function traceCaller() {
     var trace = stackTrace.get(Dconsole.prototype.log);
 
     if (trace.length >= 7) {
-        var functionName = trace[5].getFunctionName(),
-            fileName = trace[5].getFileName();
+        var functionName = trace[5].getFunctionName() || "",
+            fileName = trace[5].getFileName() || "";
 
         if ((functionName.indexOf("target") == 0 && fileName.indexOf("common.js") > 0) ||
                 (functionName.indexOf("winston") == 0 && fileName.indexOf("winston.js") > 0)) {
