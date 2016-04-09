@@ -20,3 +20,13 @@ A winston transport providing an extended console which outputs winston log mess
     });
     
     winston.log('debug', 'Now my debug messages are written to dconsole!');
+    
+## History
+
+See [Release History](https://github.com/mwittig/winston-dconsole/blob/master/HISTORY.md).
+
+## License 
+
+Copyright (c) 2015-2016, Marcus Wittig and contributors. All rights reserved.
+
+[MIT License](https://github.com/mwittig/winston-dconsole/blob/master/LICENSE)
