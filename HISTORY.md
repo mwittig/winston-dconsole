@@ -22,3 +22,6 @@
     * Removed obsolete dependency to lodash
     * Moved release history to separate file
     * Added license info to README
+
+* 20160517, V0.0.7
+    * Updated dependency for stack-trace
