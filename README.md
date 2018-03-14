@@ -29,6 +29,6 @@ See [Release History](https://github.com/mwittig/winston-dconsole/blob/master/HI
 
 ## License 
 
-Copyright (c) 2015-2016, Marcus Wittig and contributors. All rights reserved.
+Copyright (c) 2015-2018, Marcus Wittig and contributors. All rights reserved.
 
 [MIT License](https://github.com/mwittig/winston-dconsole/blob/master/LICENSE)
