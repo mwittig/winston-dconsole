@@ -25,3 +25,9 @@
 
 * 20160517, V0.0.7
     * Updated dependency for stack-trace
+    
+* 20180314, V0.0.8
+    * Dropped travis builds for node 0.10 and 0.12, 
+      added support for node 6 & 8
+    * Dependency updates
+    * Revised README
