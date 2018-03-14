@@ -1,5 +1,7 @@
 # winston-dconsole
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mwittig/winston-dconsole.svg)](https://greenkeeper.io/)
+
 A winston transport providing an extended console which outputs winston log messages including filename and 
  linenumber of the call. This is suitable for using it with the 
  [intellij-awesome-console](https://github.com/anthraxx/intellij-awesome-console) IntelliJ IDEA plugin. It extends the 
