@@ -1,5 +1,6 @@
 # winston-dconsole
 
+[![Build Status](https://travis-ci.org/mwittig/winston-dconsole.svg?branch=master)](https://travis-ci.org/mwittig/winston-dconsole)
 [![Greenkeeper badge](https://badges.greenkeeper.io/mwittig/winston-dconsole.svg)](https://greenkeeper.io/)
 
 A winston transport providing an extended console which outputs winston log messages including filename and 
