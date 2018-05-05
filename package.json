@@ -17,7 +17,7 @@
     "IntelliJ"
   ],
   "dependencies": {
-    "colors": "^1.2.1",
+    "colors": "^1.2.4",
     "stack-trace": "0.0.10",
     "winston": "^2.4.1"
   },
